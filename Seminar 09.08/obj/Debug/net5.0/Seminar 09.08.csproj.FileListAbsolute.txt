@@ -1,0 +1,16 @@
+C:\Users\Никита\Desktop\Seminar\Seminar 09.08\bin\Debug\net5.0\Seminar 09.08.exe
+C:\Users\Никита\Desktop\Seminar\Seminar 09.08\bin\Debug\net5.0\Seminar 09.08.deps.json
+C:\Users\Никита\Desktop\Seminar\Seminar 09.08\bin\Debug\net5.0\Seminar 09.08.runtimeconfig.json
+C:\Users\Никита\Desktop\Seminar\Seminar 09.08\bin\Debug\net5.0\Seminar 09.08.runtimeconfig.dev.json
+C:\Users\Никита\Desktop\Seminar\Seminar 09.08\bin\Debug\net5.0\Seminar 09.08.dll
+C:\Users\Никита\Desktop\Seminar\Seminar 09.08\bin\Debug\net5.0\ref\Seminar 09.08.dll
+C:\Users\Никита\Desktop\Seminar\Seminar 09.08\bin\Debug\net5.0\Seminar 09.08.pdb
+C:\Users\Никита\Desktop\Seminar\Seminar 09.08\obj\Debug\net5.0\Seminar 09.08.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\Seminar\Seminar 09.08\obj\Debug\net5.0\Seminar 09.08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\Seminar\Seminar 09.08\obj\Debug\net5.0\Seminar 09.08.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\Seminar\Seminar 09.08\obj\Debug\net5.0\Seminar 09.08.AssemblyInfo.cs
+C:\Users\Никита\Desktop\Seminar\Seminar 09.08\obj\Debug\net5.0\Seminar 09.08.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Seminar\Seminar 09.08\obj\Debug\net5.0\Seminar 09.08.dll
+C:\Users\Никита\Desktop\Seminar\Seminar 09.08\obj\Debug\net5.0\ref\Seminar 09.08.dll
+C:\Users\Никита\Desktop\Seminar\Seminar 09.08\obj\Debug\net5.0\Seminar 09.08.pdb
+C:\Users\Никита\Desktop\Seminar\Seminar 09.08\obj\Debug\net5.0\Seminar 09.08.genruntimeconfig.cache
